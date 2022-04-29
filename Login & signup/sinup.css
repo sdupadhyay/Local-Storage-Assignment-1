@@ -1,0 +1,12 @@
+form{
+    margin:auto;
+    width:50%;
+}
+input{
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
+    display: block;
+}
